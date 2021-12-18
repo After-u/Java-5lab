@@ -1,0 +1,18 @@
+2021-12-18 02:41:26.279 [main] INFO  com.company.Menu - Использован 1 пункт меню
+2021-12-18 02:41:33.083 [main] INFO  com.company.Calculator - Число добавлено в стек
+2021-12-18 02:41:35.627 [main] INFO  com.company.Calculator - Число добавлено в стек
+2021-12-18 02:41:37.795 [main] INFO  com.company.Calculator - Использована команда MULTIPLY
+2021-12-18 02:41:40.283 [main] INFO  com.company.Calculator - Число из стека выведено на консоль
+2021-12-18 02:41:44.715 [main] INFO  com.company.Menu - Ввод закончен возврат к главному меню
+2021-12-18 02:42:20.700 [main] INFO  com.company.Menu - Завершение программы
+2021-12-18 02:46:31.740 [main] INFO  com.company.Menu - Использован 1 пункт меню
+2021-12-18 02:46:36.610 [main] INFO  com.company.Calculator - Использована команда DEFINE
+2021-12-18 02:46:39.441 [main] INFO  com.company.Calculator - Использована команда DEFINE
+2021-12-18 02:46:42.937 [main] INFO  com.company.Calculator - Использована команда MULTIPLY
+2021-12-18 02:46:42.938 [main] DEBUG com.company.Calculator - Недостаточно аргументов для совершения команды
+2021-12-18 02:47:14.313 [main] INFO  com.company.Menu - Ввод закончен возврат к главному меню
+2021-12-18 02:47:15.153 [main] INFO  com.company.Menu - Завершение программы
+2021-12-18 02:52:52.370 [main] INFO  com.company.Menu - Использован 1 пункт меню
+2021-12-18 02:52:54.439 [main] INFO  com.company.Calculator - Использована команда DEFINE
+2021-12-18 02:54:44.271 [main] INFO  com.company.Menu - Ввод закончен возврат к главному меню
+2021-12-18 02:54:45.126 [main] INFO  com.company.Menu - Завершение программы

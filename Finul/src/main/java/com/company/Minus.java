@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package com.company;
+
+import java.util.Map;
+import java.util.Stack;
+
+public class Minus extends Command {
+
+    public Minus(Stack<Double> stack) {
+        super(stack);
+    }
+
+    @Override
+    public void execute() 
+    {
+        if (hasTwoNumber()) {
+            Double d1 = stack.pop();
+            Double d2 = stack.pop();
+            Double result = d1 - d2;
+            stack.push(result);
+        }
+    }
+}
